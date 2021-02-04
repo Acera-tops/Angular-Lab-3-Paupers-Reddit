@@ -1,0 +1,10 @@
+main {
+    display:block;
+    padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    background-color: rgba(31, 179, 192, 0.575);
+    margin: auto;
+    color: rgb(18, 79, 85);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

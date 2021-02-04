@@ -1,0 +1,6 @@
+<div>
+    <h2>r/aww Subreddit Posts</h2>
+</div>
+<section class="results">
+    <app-list-item *ngFor="let post of redditApi.results.data.children"[post]="post"></app-list-item>
+</section>

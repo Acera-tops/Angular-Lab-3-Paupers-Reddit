@@ -1,0 +1,22 @@
+.result-item{
+    display:grid;
+    width: 300px;
+    padding:50px;
+}
+
+.result-image{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    display: flex;
+    color: rgb(105, 20, 144);
+    justify-content: center;
+}
+
